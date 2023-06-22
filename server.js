@@ -1,0 +1,1 @@
+const save = {yan: "5"}
